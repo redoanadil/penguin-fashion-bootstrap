@@ -1,0 +1,26 @@
+.head{
+    background-color: #FFF9F4;
+}
+.buy-now-btn{
+    background-color: #3D4FF3;
+    width: 170px;
+    height: 60px;
+    border-radius: 10px;
+}
+h1{
+    font-size: 60px;
+    font-weight: 700;
+}
+h2{
+    color: #FA804C;
+    font-size: 36px;
+    font-weight: 900;
+}
+.col img{
+    width: 310px;
+    height: 310px;
+}
+.image-box{
+    background-color: #F1F1F1;
+;
+}
